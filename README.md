@@ -1,2 +1,2 @@
-# frostshoxx-google-colab
+# google-colab
 Stuff from Google Colaboratory
